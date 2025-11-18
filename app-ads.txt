@@ -1,0 +1,16 @@
+# InMobi
+inmobi.com, b1a249bd6f5b43549771b358d2d212d2, DIRECT
+
+# ironSource (LevelPlay)
+ironsrc.com, 23fc9cdf5, DIRECT
+
+# Unity Ads
+unity.com, 5970938, DIRECT
+
+# Meta Audience Network
+facebook.com, 1566527634773889_1566537218106264, DIRECT
+facebook.com, 1566527634773889_1566540124772640, DIRECT
+facebook.com, 1566527634773889_1566544738105512, DIRECT
+
+# Google AdMob
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT
